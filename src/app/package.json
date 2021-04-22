@@ -1,0 +1,8 @@
+{
+  "name": "@webapp/app",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Hamza JGUERIM",
+  "license": "MIT",
+  "private": true
+}

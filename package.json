@@ -1,0 +1,19 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "repository": "https://github.com/hamzajg/svelte-sapper-starter-demo-app.git",
+  "author": "Hamza JGUERIM <hamzajg@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "src/*"
+    ],
+    "nohoist": [
+      "src/*"
+    ]
+  },
+  "scripts": {
+    "test": "yarn workspaces test"
+  }
+}
